@@ -1,0 +1,21 @@
+ul {
+    list-style-type: none;
+}
+.name {
+    color:  black;
+    font-weight: lighter;
+    font-style: italic;
+}
+.number {
+    color:  black;
+    font-weight: bolder;
+    font-style: italic;
+    margin-left: 4px;
+}
+.price {
+    font-size: x-large;
+    color: blueviolet;
+    font-weight: bold;
+    font-style: oblique;
+    margin-left: 5px;
+}
